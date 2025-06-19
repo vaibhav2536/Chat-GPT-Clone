@@ -69,7 +69,7 @@ npm run dev
 
 ## Project Structure
 
-\`\`\`
+```
 ├── app/
 │   ├── api/
 │   │   ├── chat/          # Chat API endpoint
@@ -89,7 +89,7 @@ npm run dev
 │   ├── types.ts          # TypeScript type definitions
 │   └── utils.ts          # Utility functions
 └── public/               # Static assets
-\`\`\`
+```
 
 ## Key Components
 
